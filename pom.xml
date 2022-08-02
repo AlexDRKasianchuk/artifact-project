@@ -6,7 +6,6 @@
 
     <groupId>artifact</groupId>
     <artifactId>artifact</artifactId>
-    <version>1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
